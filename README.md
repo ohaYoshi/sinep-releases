@@ -6,7 +6,9 @@ Sinep — программа для репетиторов: ученики, ра
 ## Sinep для Android
 
 Есть версия для телефона (Android 9 и новее). Последняя версия всегда по этой ссылке:
-https://github.com/ohaYoshi/sinep-releases/releases/download/android-latest/Sinep-Android.apk Откройте его на телефоне и разрешите установку из этого источника. Подписка одна
+https://github.com/ohaYoshi/sinep-releases/releases/download/android-latest/Sinep-Android.apk
+
+Откройте файл на телефоне и разрешите установку из этого источника. Подписка одна
 на компьютер и телефон. Данные на телефоне хранятся только в приложении и удаляются вместе с ним.
 
 ## 1. Скачайте установщик
